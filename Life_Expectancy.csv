@@ -1,0 +1,174 @@
+Country,continent,Life_Expectancy_Yrs
+Afghanistan,AS,48.673
+Albania,EE,76.918
+Algeria,AF,73.131
+Angola,AF,51.093
+Argentina,LATAM,75.901
+Armenia,EE,74.241
+Australia,OC,81.907
+Austria,WE,80.854
+Azerbaijan,EE,70.739
+Bahamas,LATAM,75.62
+Bahrain,AF,75.057
+Bangladesh,AS,68.944
+Barbados,LATAM,76.835
+Belarus,EE,70.349
+Belgium,WE,80.009
+Belize,LATAM,76.072
+Benin,AF,56.081
+Bhutan,AS,67.185
+Bolivia,LATAM,66.618
+Bosnia and Herzegovina,EE,75.67
+Botswana,AF,53.183
+Brazil,LATAM,73.488
+Brunei,AS,78.005
+Bulgaria,EE,73.371
+Burkina Faso,AF,55.439
+Burundi,AF,50.411
+Cambodia,AS,63.125
+Cameroon,AF,51.61
+Canada,NORAM,81.012
+Cape Verde,AF,74.156
+Central African Rep.,AF,48.398
+Chad,AF,49.553
+Chile,LATAM,79.12
+China,AS,73.456
+Colombia,LATAM,73.703
+Comoros,AF,61.061
+"Congo, Dem. Rep.",AF,48.397
+"Congo, Rep.",AF,57.379
+Costa Rica,LATAM,79.311
+Cote d'Ivoire,AF,55.377
+Croatia,EE,76.64
+Cuba,LATAM,79.143
+Cyprus,WE,79.591
+Czech Rep.,EE,77.685
+Denmark,WE,78.826
+Djibouti,AF,57.937
+Dominican Rep.,LATAM,73.396
+Ecuador,LATAM,75.632
+Egypt,AF,73.235
+El Salvador,LATAM,72.196
+Equatorial Guinea,AF,51.088
+Eritrea,AF,61.597
+Estonia,EE,74.825
+Ethiopia,AF,59.274
+Fiji,OC,69.245
+Finland,WE,79.977
+France,WE,81.539
+French Polynesia,OC,75.133
+Gabon,AF,62.703
+Gambia,AF,58.491
+Georgia,EE,73.737
+Germany,WE,80.414
+Ghana,AF,64.228
+Greece,WE,79.915
+Guam,OC,76.142
+Guatemala,LATAM,71.172
+Guinea,AF,54.097
+Guinea-Bissau,AF,48.132
+Guyana,LATAM,69.927
+Haiti,LATAM,62.095
+Honduras,LATAM,73.126
+Hungary,EE,74.414
+Iceland,WE,81.804
+India,AS,65.438
+Indonesia,AS,69.366
+Iran,AS,72.974
+Iraq,AS,69.042
+Ireland,WE,80.557
+Israel,AF,81.618
+Italy,WE,81.855
+Jamaica,LATAM,73.127
+Japan,AS,83.394
+Jordan,AF,73.403
+Kazakhstan,AS,67.017
+Kenya,AF,57.134
+"Korea, Dem. Rep.",AS,68.846
+"Korea, Rep.",AS,80.642
+Kuwait,AS,74.576
+Kyrgyzstan,AS,67.714
+Laos,AS,67.484
+Latvia,EE,73.339
+Lebanon,AF,72.64
+Lesotho,AF,48.196
+Liberia,AF,56.786
+Libya,AF,74.788
+Lithuania,EE,72.231
+Luxembourg,WE,79.963
+"Macedonia, FYR",EE,74.847
+Madagascar,AF,66.718
+Malawi,AF,54.21
+Malaysia,AS,74.221
+Mali,AF,51.444
+Malta,WE,79.634
+Mauritania,AF,58.582
+Mauritius,AF,73.373
+Mexico,LATAM,76.954
+Moldova,EE,69.317
+Mongolia,AS,68.498
+Morocco,AF,72.15
+Mozambique,AF,50.239
+Myanmar,AS,65.193
+Namibia,AF,62.465
+Nepal,AS,68.795
+Netherlands,WE,80.734
+New Zealand,OC,80.654
+Nicaragua,LATAM,74.044
+Niger,AF,54.675
+Nigeria,AF,51.879
+Norway,WE,81.097
+Oman,AS,72.974
+Pakistan,AS,65.437
+Panama,LATAM,76.128
+Papua New Guinea,OC,62.791
+Paraguay,LATAM,72.477
+Peru,LATAM,73.99
+Philippines,AS,68.749
+Poland,EE,76.126
+Portugal,WE,79.499
+Puerto Rico,LATAM,79.158
+Qatar,AS,78.371
+Romania,EE,73.979
+Russia,EE,68.823
+Rwanda,AF,55.442
+Samoa,OC,72.444
+Saudi Arabia,AS,73.911
+Senegal,AF,59.318
+Serbia and Montenegro,EE,NA
+Sierra Leone,AF,47.794
+Singapore,AS,81.126
+Slovak Republic,EE,75.446
+Slovenia,EE,79.341
+Solomon Islands,NORAM,67.852
+Somalia,AF,51.219
+South Africa,AF,52.797
+Spain,WE,81.404
+Sri Lanka,AS,74.941
+Sudan,AF,61.452
+Suriname,LATAM,70.563
+Swaziland,AF,48.718
+Sweden,WE,81.439
+Switzerland,WE,82.338
+Syria,AF,75.85
+Tajikistan,AS,67.529
+Tanzania,AF,58.199
+Thailand,AS,74.126
+Togo,AF,57.062
+Trinidad and Tobago,LATAM,70.124
+Tunisia,AF,74.515
+Turkey,WE,73.979
+Turkmenistan,AS,64.986
+Uganda,AF,54.116
+Ukraine,EE,68.494
+United Arab Emirates,AS,76.546
+United Kingdom,WE,80.17
+United States,NORAM,78.531
+Uruguay,LATAM,77.005
+Uzbekistan,AS,68.287
+Vanuatu,OC,71.017
+Venezuela,LATAM,74.402
+Vietnam,AS,75.181
+"Yemen, Rep.",AS,65.493
+Zambia,AF,49.025
+Zimbabwe,AF,51.384
